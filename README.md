@@ -17,6 +17,8 @@ Siga os passos abaixo para configurar e executar o projeto:
 Clone o repositório para sua máquina local:
 bash
 Descompacte o arquivo.
+
+
 cd api-vue-php-slim-mysql
 Instale as dependências do backend usando o Composer:
 bash
