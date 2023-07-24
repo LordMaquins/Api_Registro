@@ -1,7 +1,7 @@
 # Api_Registro
 Api para cadastrar produtos
-API Vue com PHP 7, Slim, MySQL E Json
-Este é um projeto de API construído utilizando o framework Vue.js no frontend e PHP 7 com Slim no backend, juntamente com um banco de dados MySQL. Essa API permite a criação, leitura, atualização e exclusão de recursos por meio de endpoints RESTful.
+API Vue com PHP 7, E Json
+Este é um projeto de API construído utilizando o framework Vue.js no frontend e PHP 7 com Json no backend para salvar os dados. Essa API permite a criação, leitura, atualização e exclusão de recursos por meio de endpoints RESTful.
 
 Requisitos
 Certifique-se de ter os seguintes requisitos instalados em seu ambiente antes de começar:
@@ -39,3 +39,5 @@ bash
 Copie o código
 npm run serve
 Agora a API Vue com PHP 7, Slim e MySQL está em execução. O frontend estará disponível em http://localhost:8080 
+
+Obs: O slim framework está no projeto mas não foi utilizado, por motivos de erros de compatibilidade e de conexões
